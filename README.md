@@ -10,6 +10,7 @@ First, run the development server:
 // Install all needed dependencies
 npm install
 
+// Run app on localhost
 npm run dev
 
 
